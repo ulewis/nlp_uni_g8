@@ -1,1 +1,10 @@
 streamlit
+langchain
+langchain-openai
+langchain-core
+langchain-chroma
+scikit-learn
+plotly
+numpy
+rich
+pysqlite3-binary>=0.5.2   # Incluye SQLite 3.45+ pre-compilado
